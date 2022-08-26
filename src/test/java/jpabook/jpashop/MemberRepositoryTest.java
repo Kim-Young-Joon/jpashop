@@ -9,7 +9,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-
+/*
 @SpringBootTest
 class MemberRepositoryTest {
 
@@ -35,4 +35,4 @@ class MemberRepositoryTest {
         System.out.println("findMember == member : " + (findMember == member));
     }
 
-}
+}*/
